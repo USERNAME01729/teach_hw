@@ -1,7 +1,7 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
 ## What is it
-- examples of Verilog projects and students' works on my 2026 Graphics Hardware course
+- This is the game that was inspired by Space Invaders. Players have to shoot all the enemies in order to win. 
 
 ## Examples code
 - can be played on vga-playground.com: https://vga-playground.com/?repo=https://github.com/USERNAME01729/teach_hw
